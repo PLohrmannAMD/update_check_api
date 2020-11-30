@@ -1,0 +1,80 @@
+{
+   "SchemaVersion": "1.6",
+   "Releases": [
+      {
+         "ReleaseVersion" : {
+            "Major" : 1,
+            "Minor" : 0,
+            "Patch" : 0,
+            "Build" : 1
+         },
+         "ReleaseDate": "2019-03-06",
+         "ReleaseTitle": "UpdateCheckerGUI 1.0.0",
+         "ReleaseType" : "Beta",
+         "ReleasePlatforms": [ "Windows" ],
+         "ReleaseTags": [ "Windows", "Beta" ],
+         "InfoPageLinks": [
+            {
+               "URL": "https://git.amd.com:8080/plugins/gitiles/DevTools/ec/UpdateCheckAPI/+/amd-master",
+               "Description": "UpdateCheckAPI repo on Gerrit."
+            }
+         ],
+         "DownloadLinks": [
+            {
+               "URL": "https://git.amd.com:8080/plugins/gitiles/DevTools/ec/UpdateCheckAPI/+archive/amd-master.tar.gz",
+               "PackageType" : "TAR"
+            }
+         ]
+      },
+      {
+         "ReleaseVersion" : {
+            "Major" : 1,
+            "Minor" : 0,
+            "Patch" : 0,
+            "Build" : 1
+         },
+         "ReleaseDate": "2019-03-06",
+         "ReleaseTitle": "UpdateCheckerGUI 1.0.0",
+         "ReleaseType" : "Beta",
+         "ReleasePlatforms": [ "Ubuntu" ],
+         "ReleaseTags": [ "Ubuntu", "Beta" ],
+         "InfoPageLinks": [
+            {
+               "URL": "https://git.amd.com:8080/plugins/gitiles/DevTools/ec/UpdateCheckAPI/+/amd-master",
+               "Description": "UpdateCheckAPI repo on Gerrit."
+            }
+         ],
+         "DownloadLinks": [
+            {
+               "URL": "https://git.amd.com:8080/plugins/gitiles/DevTools/ec/UpdateCheckAPI/+archive/amd-master.tar.gz",
+               "PackageType" : "TAR"
+            }
+         ]
+      },
+      {
+         "ReleaseVersion" : {
+            "Major" : 1,
+            "Minor" : 0,
+            "Patch" : 0,
+            "Build" : 1
+         },
+         "ReleaseDate": "2019-03-06",
+         "ReleaseTitle": "UpdateCheckerGUI 1.0.0",
+         "ReleaseType" : "Beta",
+         "ReleasePlatforms": [ "Darwin" ],
+         "ReleaseTags": [ "Darwin", "Beta" ],
+         "InfoPageLinks": [
+            {
+               "URL": "https://git.amd.com:8080/plugins/gitiles/DevTools/ec/UpdateCheckAPI/+/amd-master",
+               "Description": "UpdateCheckAPI repo on Gerrit."
+            }
+         ],
+         "DownloadLinks": [
+            {
+               "URL": "https://git.amd.com:8080/plugins/gitiles/DevTools/ec/UpdateCheckAPI/+archive/amd-master.tar.gz",
+               "PackageType" : "TAR"
+            }
+         ]
+      }
+   ]
+}
